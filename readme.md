@@ -1,11 +1,12 @@
-##Start Project
-####Create Gemfile
+## Start Project
+#### Create Gemfile
 ```
 cd <project root>
+
 bundle init
 ```
 
-####RSpec Startup
+#### RSpec Startup
 
 add to gemfile
 
@@ -21,8 +22,8 @@ rspec --init
 
 http://rspec.info/
 
-<br>
-##Run Tests
+
+## Run Tests
 
 ```
 cd <project root>
