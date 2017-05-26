@@ -26,5 +26,8 @@ http://rspec.info/
 
 ```
 cd <project root>
+
 rspec spec/string_compression_spec.rb
+
+rspec spec/seconds_in_line_spec.rb
 ```
