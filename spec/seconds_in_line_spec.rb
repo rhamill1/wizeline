@@ -12,3 +12,9 @@ describe 'seconds_in_line(1, [1, 1, 2, 3])' do
     expect(seconds_in_line(1, [1, 1, 2, 3])).to eq 2
   end
 end
+
+describe 'seconds_in_line(1, [1, 1, 2, 3])' do
+  it 'returns the amount of seconds a customer waits in line' do
+    expect(seconds_in_line(2, [3, 1, 3, 3])).to eq 9
+  end
+end
