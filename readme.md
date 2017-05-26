@@ -22,7 +22,7 @@ rspec --init
 http://rspec.info/
 
 <br>
-## Run Tests
+##Run Tests
 
 ```
 cd <project root>
